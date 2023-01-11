@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "111",
+        "121",
+        "111"
+    ],
+
+    "key":
+    {
+        "1":
+        {
+            "tag": "plankWood"
+        },
+        "2":
+        {
+            "item": "minecraft:tripwire_hook"
+        }
+    },
+
+    "result":
+    {
+        "item": "minecraft:trapped_chest",
+        "count": 1
+    }
+}

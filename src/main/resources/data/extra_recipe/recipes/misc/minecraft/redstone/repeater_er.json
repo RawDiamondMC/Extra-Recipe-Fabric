@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "1 1",
+        "212",
+        "333"
+    ],
+
+    "key":
+    {
+        "1":
+        {
+            "tag": "itemRedstone"
+        },
+        "2":
+        {
+            "tag": "stickWood"
+        },
+        "3":
+        {
+            "item": "minecraft:stone"
+        }
+    },
+
+    "result":
+    {
+        "item": "minecraft:repeater",
+        "count": 1
+    }
+}

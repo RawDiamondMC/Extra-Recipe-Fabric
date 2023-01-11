@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "minecraft:grass",
+    "count": 2
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:tall_grass"
+      }
+    ]
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "  1",
+    " 2 ",
+    "2  "
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "tag": "string"
+    },
+    "2":
+    {
+      "tag": "paper"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:name_tag",
+    "count": 1
+  }
+}

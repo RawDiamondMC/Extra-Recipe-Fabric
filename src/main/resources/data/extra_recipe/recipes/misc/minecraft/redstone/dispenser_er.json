@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        " 12",
+        "132",
+        " 12"
+    ],
+
+    "key":
+    {
+        "1":
+        {
+            "tag": "stickWood"
+        },
+        "2":
+        {
+			"tag": "string"
+        },
+        "3":
+        {
+            "item": "minecraft:dropper"
+        }
+    },
+
+    "result":
+    {
+        "item": "minecraft:dispenser",
+        "count": 1
+    }
+}

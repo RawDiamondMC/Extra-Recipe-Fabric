@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "12 ",
+    "1 2",
+    "12 "
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "tag": "string"
+    },
+    "2":
+    {
+      "tag": "stickWood"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:bow",
+    "count": 1
+  }
+}

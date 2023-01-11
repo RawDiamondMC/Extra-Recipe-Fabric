@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "111",
+        "121",
+        "111"
+    ],
+
+    "key":
+    {
+        "1":
+        {
+            "tag": "ingotGold"
+        },
+        "2":
+        {
+           "item": "minecraft:golden_apple"
+        }
+    },
+
+    "result":
+    {
+        "item": "minecraft:enchanted_golden_apple"
+    }
+}

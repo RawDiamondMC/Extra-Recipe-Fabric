@@ -1,0 +1,15 @@
+{
+    "result": {
+        "item": "minecraft:rotten_flesh",
+        "count": 1
+    },
+    "ingredients": [
+        [
+            {"tag": "listAllmeatraw" }
+        ],
+        [
+            {"tag": "listAllsugar" }
+        ]
+    ],
+    "type": "minecraft:crafting_shapeless"
+}

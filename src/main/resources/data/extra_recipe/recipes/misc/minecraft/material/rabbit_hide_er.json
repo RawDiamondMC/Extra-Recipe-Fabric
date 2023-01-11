@@ -1,0 +1,14 @@
+{
+    "result": {
+        "item": "minecraft:rabbit_hide",
+        "count": 4
+    },
+    "ingredients": [
+        [
+            {
+                "tag": "leather"
+            }
+        ]
+    ],
+    "type": "minecraft:crafting_shapeless"
+}

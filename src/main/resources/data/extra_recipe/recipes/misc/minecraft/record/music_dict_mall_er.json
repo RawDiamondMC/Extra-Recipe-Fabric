@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " 3 ",
+    "212",
+    " 3 "
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "extra_recipe:record_blank"
+    },
+    "2":
+    {
+      "item": "minecraft:purple_wool"
+    },
+    "3":
+    {
+      "item": "minecraft:blue_wool"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:record_mall",
+    "count": 1
+  }
+}

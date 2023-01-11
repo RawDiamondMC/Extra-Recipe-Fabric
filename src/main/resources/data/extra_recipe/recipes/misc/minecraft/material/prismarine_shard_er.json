@@ -1,0 +1,25 @@
+{
+    "result": {
+        "item": "minecraft:prismarine_shard",
+        "count": 3
+    },
+    "ingredients": [
+
+        [
+            {
+                "tag": "gemQuartz"
+            }
+        ],
+        [
+            {
+                "tag": "gemQuartz"
+            }
+        ],
+        [
+            {
+                "tag": "gemLapis"
+            }
+        ]
+    ],
+    "type": "minecraft:crafting_shapeless"
+}

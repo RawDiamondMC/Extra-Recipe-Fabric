@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "232",
+    "323",
+    "232"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "extra_recipe:record_blank"
+    },
+    "2":
+    {
+      "tag": "stone"
+    },
+    "3":
+    {
+      "tag": "grass"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:record_chirp",
+    "count": 1
+  }
+}

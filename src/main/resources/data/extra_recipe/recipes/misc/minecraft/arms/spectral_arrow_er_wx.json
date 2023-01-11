@@ -1,0 +1,24 @@
+{
+    "result": {
+        "item": "minecraft:spectral_arrow",
+        "count": 8
+    },
+    "ingredients": [
+        [
+            { "item": "minecraft:arrow" }
+        ],
+        [
+            { "item": "minecraft:arrow" }
+        ],
+        [
+            { "item": "minecraft:arrow" }
+        ],
+        [
+            { "item": "minecraft:arrow" }
+        ],
+        [
+            { "tag": "glowstone" }
+        ]
+    ],
+    "type": "minecraft:crafting_shapeless"
+}
