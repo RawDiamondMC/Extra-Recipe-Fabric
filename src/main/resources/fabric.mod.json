@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "extra_recipe",
-  "version": "1.0",
+  "version": "0.1",
 
   "name": "Extra Recipe",
   "description": "The Extra Recipe for Minecraft.",
@@ -11,7 +11,8 @@
   ],
   "contact": {
     "homepage": "https://www.mcmod.cn/class/7424.html",
-    "sources": "https://github.com/RawDiamondMC/Extra-Recipe-Fabric"
+    "sources": "https://github.com/RawDiamondMC/Extra-Recipe-Fabric",
+    "issues": "https://github.com/RawDiamondMC/Extra-Recipe-Fabric/issues"
   },
 
   "license": "CC0-1.0",
@@ -20,7 +21,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.extra_recipe"
+      "net.rawdiamondmc.extra_recipe.ExtraRecipe"
     ]
   },
   "mixins": [
