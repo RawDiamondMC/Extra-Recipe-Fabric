@@ -12,11 +12,11 @@
   {
     "1":
     {
-      "tag": "string"
+      "tag": "c:string"
     },
     "2":
     {
-      "tag": "stickWood"
+      "tag": "c:wood_sticks"
     }
   },
 

@@ -12,11 +12,11 @@
     {
         "1":
         {
-            "tag": "gemDiamond"
+            "tag": "c:diamonds"
         },
         "0":
         {
-            "tag": "wool"
+            "tag": "c:wools"
         }
     },
 

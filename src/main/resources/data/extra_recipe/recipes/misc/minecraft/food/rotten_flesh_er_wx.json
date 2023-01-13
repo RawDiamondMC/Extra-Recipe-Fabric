@@ -5,10 +5,10 @@
     },
     "ingredients": [
         [
-            {"tag": "listAllmeatraw" }
+            {"tag": "c:raw_meat" }
         ],
         [
-            {"tag": "listAllsugar" }
+            {"tag": "c:sugar" }
         ]
     ],
     "type": "minecraft:crafting_shapeless"

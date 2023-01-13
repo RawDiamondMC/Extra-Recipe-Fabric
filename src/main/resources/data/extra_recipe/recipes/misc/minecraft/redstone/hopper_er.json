@@ -12,11 +12,11 @@
     {
         "1":
         {
-            "tag": "ingotIron"
+            "tag": "c:iron_ingots"
         },
         "2":
         {
-            "tag": "logWood"
+            "tag": "c:logs"
         }
     },
 

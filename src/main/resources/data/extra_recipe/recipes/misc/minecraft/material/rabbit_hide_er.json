@@ -6,7 +6,7 @@
     "ingredients": [
         [
             {
-                "tag": "leather"
+                "item": "minecraft:leather"
             }
         ]
     ],

@@ -10,13 +10,13 @@
 
   "key": {
     "1": {
-      "tag": "ingotGold"
+      "tag": "c:gold_ingots"
     },
     "2": {
-      "tag": "netherStar"
+      "tag": "minecraft:nether_star"
     },
     "3": {
-      "tag": "gemEmerald"
+      "tag": "c:emeralds"
     }
   },
 

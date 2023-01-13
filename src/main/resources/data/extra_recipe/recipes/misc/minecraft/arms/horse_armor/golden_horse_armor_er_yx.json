@@ -12,11 +12,11 @@
     {
         "1":
         {
-            "tag": "ingotGold"
+            "tag": "c:gold_ingots"
         },
         "0":
         {
-            "tag": "wool"
+            "tag": "c:wools"
         }
     },
 

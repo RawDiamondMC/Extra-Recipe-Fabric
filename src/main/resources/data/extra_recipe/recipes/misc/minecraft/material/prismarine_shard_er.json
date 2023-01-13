@@ -7,17 +7,17 @@
 
         [
             {
-                "tag": "gemQuartz"
+                "tag": "c:quartz"
             }
         ],
         [
             {
-                "tag": "gemQuartz"
+                "tag": "c:quartz"
             }
         ],
         [
             {
-                "tag": "gemLapis"
+                "tag": "c:lapis"
             }
         ]
     ],

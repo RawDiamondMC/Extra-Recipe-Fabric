@@ -9,7 +9,7 @@
             { "item": "minecraft:spider_eye" }
         ],
         [
-            { "item": "minecraft:sugar" }
+            { "tag": "c:sugar" }
         ],
         [
             { "item": "minecraft:blaze_powder" }

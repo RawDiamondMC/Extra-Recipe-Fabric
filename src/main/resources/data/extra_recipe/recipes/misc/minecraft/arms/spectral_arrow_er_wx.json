@@ -17,7 +17,7 @@
             { "item": "minecraft:arrow" }
         ],
         [
-            { "tag": "glowstone" }
+            { "tag": "c:glowstone_blocks" }
         ]
     ],
     "type": "minecraft:crafting_shapeless"

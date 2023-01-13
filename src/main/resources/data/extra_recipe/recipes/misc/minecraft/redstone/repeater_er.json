@@ -12,11 +12,11 @@
     {
         "1":
         {
-            "tag": "itemRedstone"
+            "tag": "c:redstone_dusts"
         },
         "2":
         {
-            "tag": "stickWood"
+            "tag": "c:wood_sticks"
         },
         "3":
         {

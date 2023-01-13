@@ -8,7 +8,7 @@
             { "item": "minecraft:bone_meal"}
         ],
         [
-            {"tag": "cropPotato" }
+            {"tag": "c:potatoes" }
         ]
     ],
     "type": "minecraft:crafting_shapeless"
