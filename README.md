@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# 最新版本有bug，正在修
 
-## Setup
+# Extra Recipe Fabric
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+# 注意！本模组还在早期测试版本，可能根本不能用！
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## 如果你有什么建议的话，欢迎提交issues或pr！
