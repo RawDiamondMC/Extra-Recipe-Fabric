@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "extra_recipe",
-  "version": "0.2",
+  "version": "0.3",
 
   "name": "Extra Recipe",
   "description": "The Extra Recipe for Minecraft.",
@@ -15,7 +15,7 @@
     "issues": "https://github.com/RawDiamondMC/Extra-Recipe-Fabric/issues"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/extra_recipe/icon.png",
 
   "environment": "*",
@@ -31,7 +31,7 @@
   "depends": {
     "fabricloader": ">=0.14.11",
     "fabric-api": "*",
-    "minecraft": "~1.19.3",
+    "minecraft": ">=1.19",
     "java": ">=17"
   },
   "suggests": {
