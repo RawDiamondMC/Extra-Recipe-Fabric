@@ -1,4 +1,5 @@
 {
+  "type": "minecraft:crafting_shapeless",
   "result": {
     "item": "minecraft:fern",
     "count": 2
@@ -9,6 +10,5 @@
         "item": "minecraft:large_fern"
       }
     ]
-  ],
-  "type": "minecraft:crafting_shapeless"
+  ]
 }

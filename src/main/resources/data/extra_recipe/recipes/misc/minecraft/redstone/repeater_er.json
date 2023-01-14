@@ -1,32 +1,23 @@
 {
-    "type": "minecraft:crafting_shaped",
-
-    "pattern":
-    [
-        "1 1",
-        "212",
-        "333"
-    ],
-
-    "key":
-    {
-        "1":
-        {
-            "tag": "c:redstone_dusts"
-        },
-        "2":
-        {
-            "tag": "c:wood_sticks"
-        },
-        "3":
-        {
-            "item": "minecraft:stone"
-        }
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "c:redstone_dusts"
     },
-
-    "result":
-    {
-        "item": "minecraft:repeater",
-        "count": 1
+    "$": {
+      "tag": "c:wood_sticks"
+    },
+    "*": {
+      "item": "minecraft:stone"
     }
+  },
+  "pattern": [
+    "# #",
+    "$#$",
+    "***"
+  ],
+  "result": {
+    "item": "minecraft:repeater",
+    "count": 1
+  }
 }

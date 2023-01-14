@@ -1,12 +1,14 @@
 {
-    "result": {
-        "item": "minecraft:brick",
-        "count": 4
-    },
-    "ingredients": [
-        [
-            { "item": "minecraft:hardened_clay" }
-        ]
-    ],
-    "type": "minecraft:crafting_shapeless"
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:brick",
+    "count": 4
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:terracotta"
+      }
+    ]
+  ]
 }

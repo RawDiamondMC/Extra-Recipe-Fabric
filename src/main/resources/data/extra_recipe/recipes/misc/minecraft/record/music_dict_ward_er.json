@@ -1,32 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
-
-  "pattern":
-  [
-    " 2 ",
-    "213",
-    " 3 "
-  ],
-
-  "key":
-  {
-    "1":
-    {
-      "item": "extra_recipe:record_blank"
-    },
-    "2":
-    {
+  "key": {
+    "#": {
       "item": "minecraft:green_wool"
     },
-    "3":
-    {
+    "$": {
+      "item": "extra_recipe:record_blank"
+    },
+    "*": {
       "item": "minecraft:lime_wool"
     }
   },
-
-  "result":
-  {
-    "item": "minecraft:record_ward",
+  "pattern": [
+    " # ",
+    "#$*",
+    " * "
+  ],
+  "result": {
+    "item": "minecraft:music_disc_ward",
     "count": 1
   }
 }

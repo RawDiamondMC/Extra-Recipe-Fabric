@@ -1,31 +1,22 @@
 {
-    "type": "minecraft:crafting_shaped",
-
-    "pattern":
-    [
-      "323",
-      " 1 "
-    ],
-
-    "key":
-   {
-          "1":
-          {
-            "item": "minecraft:deadbush"
-          },
-          "2":
-          {
-            "item": "minecraft:bone_meal"
-          },
-          "3":
-          {
-            "item": "minecraft:jungle_leaves"
-          }
-   },
-
-    "result":
-    {
-        "item": "minecraft:jungle_sapling",
-        "count": 1
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_leaves"
+    },
+    "$": {
+      "item": "minecraft:bone_meal"
+    },
+    "*": {
+      "item": "minecraft:dead_bush"
     }
+  },
+  "pattern": [
+    "#$#",
+    " * "
+  ],
+  "result": {
+    "item": "minecraft:jungle_sapling",
+    "count": 1
+  }
 }

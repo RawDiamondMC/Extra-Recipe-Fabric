@@ -1,4 +1,5 @@
 {
+  "type": "minecraft:crafting_shapeless",
   "result": {
     "item": "minecraft:nether_wart",
     "count": 9
@@ -9,6 +10,5 @@
         "item": "minecraft:nether_wart_block"
       }
     ]
-  ],
-  "type": "minecraft:crafting_shapeless"
+  ]
 }

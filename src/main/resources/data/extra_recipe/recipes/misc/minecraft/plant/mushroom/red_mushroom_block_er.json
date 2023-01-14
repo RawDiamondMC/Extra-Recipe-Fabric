@@ -1,23 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-
-    "pattern":
-    [
-        "11",
-        "11"
-    ],
-
-    "key":
-   {
-          "1":
-          {
-            "item": "minecraft:red_mushroom"
-          }
-   },
-
-    "result":
-    {
-        "item": "minecraft:red_mushroom_block",
-        "count": 1
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:red_mushroom"
     }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "minecraft:red_mushroom_block",
+    "count": 1
+  }
 }

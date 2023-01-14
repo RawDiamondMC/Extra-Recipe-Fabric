@@ -1,15 +1,19 @@
 {
-    "result": {
-        "item": "minecraft:rotten_flesh",
-        "count": 1
-    },
-    "ingredients": [
-        [
-            {"tag": "c:raw_meat" }
-        ],
-        [
-            {"tag": "c:sugar" }
-        ]
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:rotten_flesh",
+    "count": 1
+  },
+  "ingredients": [
+    [
+      {
+        "tag": "c:raw_meat"
+      }
     ],
-    "type": "minecraft:crafting_shapeless"
+    [
+      {
+        "tag": "c:sugar"
+      }
+    ]
+  ]
 }

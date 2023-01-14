@@ -1,12 +1,14 @@
 {
-    "result": {
-        "item": "minecraft:brown_mushroom",
-        "count": 4
-    },
-    "ingredients": [
-        [
-            { "item": "minecraft:brown_mushroom_block" }
-        ]
-    ],
-    "type": "minecraft:crafting_shapeless"
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:brown_mushroom",
+    "count": 4
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:brown_mushroom_block"
+      }
+    ]
+  ]
 }

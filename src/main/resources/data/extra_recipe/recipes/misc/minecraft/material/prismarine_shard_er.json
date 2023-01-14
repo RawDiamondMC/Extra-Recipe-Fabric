@@ -1,25 +1,24 @@
 {
-    "result": {
-        "item": "minecraft:prismarine_shard",
-        "count": 3
-    },
-    "ingredients": [
-
-        [
-            {
-                "tag": "c:quartz"
-            }
-        ],
-        [
-            {
-                "tag": "c:quartz"
-            }
-        ],
-        [
-            {
-                "tag": "c:lapis"
-            }
-        ]
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:prismarine_shard",
+    "count": 3
+  },
+  "ingredients": [
+    [
+      {
+        "tag": "c:quartz"
+      }
     ],
-    "type": "minecraft:crafting_shapeless"
+    [
+      {
+        "tag": "c:quartz"
+      }
+    ],
+    [
+      {
+        "tag": "c:lapis_lazulis"
+      }
+    ]
+  ]
 }

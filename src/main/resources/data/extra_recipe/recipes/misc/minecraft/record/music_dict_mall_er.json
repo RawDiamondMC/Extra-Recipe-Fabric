@@ -1,32 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
-
-  "pattern":
-  [
-    " 3 ",
-    "212",
-    " 3 "
-  ],
-
-  "key":
-  {
-    "1":
-    {
-      "item": "extra_recipe:record_blank"
+  "key": {
+    "#": {
+      "item": "minecraft:blue_wool"
     },
-    "2":
-    {
+    "$": {
       "item": "minecraft:purple_wool"
     },
-    "3":
-    {
-      "item": "minecraft:blue_wool"
+    "*": {
+      "item": "extra_recipe:record_blank"
     }
   },
-
-  "result":
-  {
-    "item": "minecraft:record_mall",
+  "pattern": [
+    " # ",
+    "$*$",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:music_disc_mall",
     "count": 1
   }
 }

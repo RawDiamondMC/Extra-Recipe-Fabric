@@ -1,35 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
-
-  "pattern":
-  [
-    "121",
-    "343",
-    "3 3"
-  ],
-
-  "key":
-  {
-    "1":
-    {
+  "key": {
+    "#": {
       "item": "minecraft:ender_eye"
     },
-    "2":
-    {
+    "$": {
       "item": "minecraft:shulker_shell"
     },
-    "3":
-    {
+    "*": {
       "item": "minecraft:leather"
     },
-    "4":
-    {
+    "%": {
       "item": "minecraft:chorus_flower"
     }
   },
-
-  "result":
-  {
+  "pattern": [
+    "#$#",
+    "*%*",
+    "* *"
+  ],
+  "result": {
     "item": "minecraft:elytra",
     "count": 1
   }

@@ -1,32 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
-
-  "pattern":
-  [
-    "232",
-    "323",
-    "232"
-  ],
-
-  "key":
-  {
-    "1":
-    {
-      "item": "extra_recipe:record_blank"
+  "key": {
+    "#": {
+      "tag": "c:grass_blocks"
     },
-    "2":
-    {
+    "$": {
       "tag": "c:stone"
     },
-    "3":
-    {
-      "tag": "c:grass_blocks"
+    "*": {
+      "item": "extra_recipe:record_blank"
     }
   },
-
-  "result":
-  {
-    "item": "minecraft:record_chirp",
+  "pattern": [
+    "$#$",
+    "#*#",
+    "$#$"
+  ],
+  "result": {
+    "item": "minecraft:music_disc_chirp",
     "count": 1
   }
 }

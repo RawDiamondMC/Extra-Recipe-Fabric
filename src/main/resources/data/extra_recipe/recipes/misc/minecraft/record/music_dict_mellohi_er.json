@@ -1,32 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
-
-  "pattern":
-  [
-    " 2 ",
-    "313",
-    " 2 "
-  ],
-
-  "key":
-  {
-    "1":
-    {
-      "item": "extra_recipe:record_blank"
-    },
-    "2":
-    {
+  "key": {
+    "#": {
       "item": "minecraft:purple_wool"
     },
-    "3":
-    {
+    "$": {
       "item": "minecraft:white_wool"
+    },
+    "*": {
+      "item": "extra_recipe:record_blank"
     }
   },
-
-  "result":
-  {
-    "item": "minecraft:record_mellohi",
+  "pattern": [
+    " # ",
+    "$*$",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:music_disc_mellohi",
     "count": 1
   }
 }

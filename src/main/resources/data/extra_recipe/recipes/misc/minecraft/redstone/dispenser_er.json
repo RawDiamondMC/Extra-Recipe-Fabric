@@ -1,32 +1,23 @@
 {
-    "type": "minecraft:crafting_shaped",
-
-    "pattern":
-    [
-        " 12",
-        "132",
-        " 12"
-    ],
-
-    "key":
-    {
-        "1":
-        {
-            "tag": "c:wood_sticks"
-        },
-        "2":
-        {
-			"tag": "c:string"
-        },
-        "3":
-        {
-            "item": "minecraft:dropper"
-        }
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "c:wood_sticks"
     },
-
-    "result":
-    {
-        "item": "minecraft:dispenser",
-        "count": 1
+    "$": {
+      "tag": "c:string"
+    },
+    "*": {
+      "item": "minecraft:dropper"
     }
+  },
+  "pattern": [
+    " #$",
+    "#*$",
+    " #$"
+  ],
+  "result": {
+    "item": "minecraft:dispenser",
+    "count": 1
+  }
 }

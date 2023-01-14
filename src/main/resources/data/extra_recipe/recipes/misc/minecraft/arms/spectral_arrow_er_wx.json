@@ -1,24 +1,34 @@
 {
-    "result": {
-        "item": "minecraft:spectral_arrow",
-        "count": 8
-    },
-    "ingredients": [
-        [
-            { "item": "minecraft:arrow" }
-        ],
-        [
-            { "item": "minecraft:arrow" }
-        ],
-        [
-            { "item": "minecraft:arrow" }
-        ],
-        [
-            { "item": "minecraft:arrow" }
-        ],
-        [
-            { "tag": "c:glowstone_blocks" }
-        ]
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:spectral_arrow",
+    "count": 8
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:arrow"
+      }
     ],
-    "type": "minecraft:crafting_shapeless"
+    [
+      {
+        "item": "minecraft:arrow"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:arrow"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:arrow"
+      }
+    ],
+    [
+      {
+        "tag": "c:glowstone_blocks"
+      }
+    ],
+  ]
 }

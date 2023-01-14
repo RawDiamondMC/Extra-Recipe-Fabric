@@ -1,28 +1,20 @@
 {
   "type": "minecraft:crafting_shaped",
-
-  "pattern":
-  [
-    " 2 ",
-    "212",
-    " 2 "
-  ],
-
-  "key":
-  {
-    "1":
-    {
-		"item": "extra_recipe:record_blank"
+  "key": {
+    "#": {
+      "tag": "c:gold_nuggets"
     },
-    "2":
-    {
-		"tag": "c:gold_nuggets"
+    "$": {
+      "item": "extra_recipe:record_blank"
     }
   },
-
-  "result":
-  {
-    "item": "minecraft:record_13",
+  "pattern": [
+    " # ",
+    "#$#",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:music_disc_13",
     "count": 1
   }
 }

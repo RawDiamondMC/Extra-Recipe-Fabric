@@ -1,28 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-
-    "pattern":
-    [
-        "121",
-        "121",
-        " 1 "
-    ],
-
-    "key":
-    {
-        "1":
-        {
-            "tag": "c:iron_ingots"
-        },
-        "2":
-        {
-            "tag": "c:logs"
-        }
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "c:iron_ingots"
     },
-
-    "result":
-    {
-        "item": "minecraft:hopper",
-        "count": 1
+    "$": {
+      "tag": "c:logs"
     }
+  },
+  "pattern": [
+    "#$#",
+    "#$#",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:hopper",
+    "count": 1
+  }
 }

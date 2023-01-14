@@ -1,12 +1,14 @@
 {
-    "result": {
-        "item": "minecraft:string",
-        "count": 5
-    },
-    "ingredients": [
-        [
-            { "item": "minecraft:web" }
-        ]
-    ],
-    "type": "minecraft:crafting_shapeless"
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:string",
+    "count": 5
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:cobweb"
+      }
+    ]
+  ]
 }

@@ -1,4 +1,5 @@
 {
+  "type": "minecraft:crafting_shapeless",
   "result": {
     "item": "minecraft:grass",
     "count": 2
@@ -9,6 +10,5 @@
         "item": "minecraft:tall_grass"
       }
     ]
-  ],
-  "type": "minecraft:crafting_shapeless"
+  ]
 }
