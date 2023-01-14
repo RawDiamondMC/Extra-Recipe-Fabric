@@ -7,12 +7,12 @@
   "ingredients": [
     [
       {
-        "tag": "c:raw_meat"
+        "tag": "#c:raw_meat"
       }
     ],
     [
       {
-        "tag": "c:sugar"
+        "tag": "#c:sugar"
       }
     ]
   ]

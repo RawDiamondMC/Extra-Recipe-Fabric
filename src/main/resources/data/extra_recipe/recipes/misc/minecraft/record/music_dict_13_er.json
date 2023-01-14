@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "c:gold_nuggets"
+      "tag": "#c:gold_nuggets"
     },
     "$": {
       "item": "extra_recipe:record_blank"
