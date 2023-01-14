@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "#c:wools"
+      "tag": "c:wools"
     },
     "$": {
       "item": "extra_recipe:record_blank"

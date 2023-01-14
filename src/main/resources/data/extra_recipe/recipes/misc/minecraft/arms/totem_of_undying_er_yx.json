@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "#c:gold_ingots"
+      "tag": "c:gold_ingots"
     },
     "$": {
-      "tag": "#c:nether_stars"
+      "tag": "c:nether_stars"
     },
     "*": {
-      "tag": "#c:emeralds"
+      "tag": "c:emeralds"
     }
   },
   "pattern": [

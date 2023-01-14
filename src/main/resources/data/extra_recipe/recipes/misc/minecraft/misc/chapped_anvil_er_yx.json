@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "#c:iron_ingots"
+      "tag": "c:iron_ingots"
     },
     "$": {
       "item": "minecraft:damaged_anvil"

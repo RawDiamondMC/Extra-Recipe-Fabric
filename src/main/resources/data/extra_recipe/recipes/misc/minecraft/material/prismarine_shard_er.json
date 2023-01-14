@@ -7,17 +7,17 @@
   "ingredients": [
     [
       {
-        "tag": "#c:quartz"
+        "tag": "c:quartz"
       }
     ],
     [
       {
-        "tag": "#c:quartz"
+        "tag": "c:quartz"
       }
     ],
     [
       {
-        "tag": "#c:lapis_lazulis"
+        "tag": "c:lapis_lazulis"
       }
     ]
   ]

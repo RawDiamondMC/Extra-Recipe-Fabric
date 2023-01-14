@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "tag": "#c:stone"
+      "tag": "c:stone"
     },
     "$": {
       "item": "extra_recipe:record_blank"
