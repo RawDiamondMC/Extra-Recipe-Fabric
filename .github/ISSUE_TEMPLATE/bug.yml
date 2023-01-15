@@ -1,7 +1,7 @@
 name: "模组导致游戏崩溃"
 description: "游戏崩溃"
 title: "[Bug]: "
-labels: [Bug, 待处理]
+labels: [bug, 待处理]
 body:
 - type: checkboxes
   id: "yml-1"
