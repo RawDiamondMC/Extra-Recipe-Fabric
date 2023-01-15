@@ -1,0 +1,28 @@
+name: "模组导致游戏崩溃"
+description: "游戏崩溃"
+title: "[Bug]: "
+labels: [· Bug, 待处理]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "请逐个检查下列项目，并勾选确认。"
+    options:
+    - label: "我已确认过崩溃是由ExtraRecipeFabric导致的"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 描述
+    description: "详细描述具体表现。"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 错误报告、日志与附件
+    description: "上传游戏的崩溃报告（可以是游戏的崩溃日志、latest.log或启动器生成的zip"
+    placeholder: "先点击这个文本框，然后再将文件直接拖拽到文本框中以上传。"
+  validations:
+    required: true
