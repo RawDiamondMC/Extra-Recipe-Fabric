@@ -31,7 +31,7 @@ body:
     description: "结果"
   validations:
     required: true
-    - type: textarea
+- type: textarea
   id: "yml-4"
   attributes:
     label: 材料
