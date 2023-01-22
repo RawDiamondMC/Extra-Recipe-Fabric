@@ -3,6 +3,7 @@ package net.rawdiamondmc.extra_recipe;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import org.slf4j.Logger;
@@ -15,7 +16,7 @@ public class ExtraRecipe implements ModInitializer {
 
 	public static final Logger LOGGER = LoggerFactory.getLogger("extra_recipe");
 	// an instance of our new item
-	public static final Item CUSTOM_ITEM = new Item(new FabricItemSettings().group(ItemGroup.MISC));
+	public static final Item record_blank = new Item(new FabricItemSettings().group(ItemGroup.MISC));
 
 	@Override
 	public void onInitialize() {
