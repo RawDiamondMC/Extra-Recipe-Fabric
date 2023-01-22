@@ -4,7 +4,7 @@
   "version": "0.4",
 
   "name": "Extra Recipe",
-  "description": "The Extra Recipe for Minecraft.",
+  "description": "Extra Recipes for Minecraft.",
   "authors": [
 	"YTXSY",
 	"RawDiamondMC"
@@ -31,7 +31,7 @@
   "depends": {
     "fabricloader": ">=0.14.11",
     "fabric-api": "*",
-    "minecraft": "1.19.3",
+    "minecraft": "1.19.2",
     "java": ">=17"
   },
   "suggests": {

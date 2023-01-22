@@ -29,6 +29,9 @@ body:
   attributes:
     label: 得到的物品
     description: "结果"
+    value: |
+      （例）
+      不死图腾x1
   validations:
     required: true
 - type: textarea
@@ -38,8 +41,8 @@ body:
     description: "需要表明是什么模组的物品"
     value: |
         （示例）
-        1:金锭
-        2:下界之星
-        3:绿宝石
+        1:原版金锭
+        2:原版下界之星
+        3:原版绿宝石
   validations:
     required: true
