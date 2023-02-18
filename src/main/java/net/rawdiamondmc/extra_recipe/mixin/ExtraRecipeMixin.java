@@ -11,6 +11,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class ExtraRecipeMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		ExtraRecipe.LOGGER.info("Test line by extra recipe mixin");
+		ExtraRecipe.LOGGER.info("Extra Recipe fabric is currently in alpha , create an issue if you run into problems!");
 	}
 }
